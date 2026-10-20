@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Novatrix** · Team ID `VTU-QFF-HC-0133` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Novatrix)
+[⬆ Back to Top](#novatrix)
 
 </div>
